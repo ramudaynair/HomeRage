@@ -15,7 +15,7 @@ A modern, animated React version of the RageBait VS Code extension landing page 
 - **Responsive Design**: Mobile-friendly layout
 - **Performance Optimized**: Intersection Observer for scroll animations
 
-**🔗 Live Demo:** [View on Vercel](https//:home-rage.vercel.app)
+**🔗 Live Demo:** [View on Vercel](https://home-rage.vercel.app/)
 
 ## Installation
 
