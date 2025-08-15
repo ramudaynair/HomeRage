@@ -603,7 +603,7 @@ const RageBait = () => {
       {/* Footer */}
       <footer className="footer">
         <div className="container">
-          <p>&copy; 2024 RageBait. Use at your own risk! Always backup your code.</p>
+          <p>&copy; 2025 RageBait. Use at your own risk! Always backup your code.</p>
           <p>
             Made with chaos and passion by{' '}
             <a
